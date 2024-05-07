@@ -1,1 +1,1 @@
-Echo "Hello boss. Everything is good"
+Ech "Hello boss. Everything is good"
